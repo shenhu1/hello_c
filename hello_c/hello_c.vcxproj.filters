@@ -24,12 +24,24 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="curl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="easy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="curlver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="system.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="hello_c.cpp">
+    <ClCompile Include="hello_c.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
